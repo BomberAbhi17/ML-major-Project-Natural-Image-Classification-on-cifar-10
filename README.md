@@ -29,7 +29,7 @@ Approach
 Imported dataset
 Analysed data
 Applied PCA
-Prediction using Random Forest
+### Prediction using Random Forest
 Prediction using KNN
 Prediction using Logistic Regression
 Prediction using SVM
